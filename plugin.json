@@ -3,6 +3,6 @@
     "name"              :"MarketingResource",
     "description"       :"Plugin to provide resources for marketing content.",
     "namespace"         :"MarketingResource",
-    "author"            :"Lukas",
+    "author"            :"plentymarkets GmbH",
     "type"              :"template"
 }

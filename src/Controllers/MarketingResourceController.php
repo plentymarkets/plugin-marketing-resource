@@ -2,16 +2,17 @@
 
 namespace MarketingResource\Controllers;
 
-use Plenty\Plugin\Templates\Twig;
+use Plenty\Plugin\Application;
+use Plenty\Plugin\Controller;
 
 class MarketingResourceController extends Controller
 {
     /**
-     * @param Twig $twig
      * @return string
      */
-    public function getPluginPath(Twig $twig)
+    public function getPluginPath()
     {
-        return json_encode("{test: 1}");
+        $app = pluginApp(Application::class);
+        return $app->getUrlPath('MarketingResource');
     }
 }

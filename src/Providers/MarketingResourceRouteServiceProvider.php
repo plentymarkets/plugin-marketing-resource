@@ -16,6 +16,6 @@ class MarketingResourceRouteServiceProvider extends RouteServiceProvider
      */
     public function map(Router $router)
     {
-        $router->get('marketing-resource', 'MarketingResource\Controllers\MarketingResourceController@getPluginPath');
+        $router->get('marketing-resource-plugin-path', 'MarketingResource\Controllers\MarketingResourceController@getPluginPath');
     }
 }

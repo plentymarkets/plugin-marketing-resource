@@ -76,7 +76,7 @@
         "pictureLink": ""
       },
       {
-        "pictureUrl": "https://cdn02.plentymarkets.com/pmsbpnokwu6a/plugin/production/marketingresource/images/homepage/slider_amazon_de.jpg",
+        "pictureUrl": "https://cdn02.plentymarkets.com/pmsbpnokwu6a/plugin/production/marketingresource/images/homepage/slider_amazon_en.jpg",
         "text": "",
         "pictureLink": "https://pay.amazon.com/uk/promotion?ld=SPEXDEAPA-plentymarkets-NL-XiS17"
       },
@@ -107,8 +107,8 @@
         "pluginTitle": "Etsy"
       },
       {
-        "pluginIcon": "https://cdn02.plentymarkets.com/pmsbpnokwu6a/plugin/production/marketingresource/images/homepage/icon_plugin_amazon_de.jpg",
-        "pluginText": "Loyale Kunden. Inline-Checkout. Mobiloptimiert.",
+        "pluginIcon": "https://cdn02.plentymarkets.com/pmsbpnokwu6a/plugin/production/marketingresource/images/homepage/icon_plugin_amazon_en.jpg",
+        "pluginText": "Loyal customers. Inline checkout. Optimised for mobile.",
         "pluginLink": "https://pay.amazon.com/uk/promotion?ld=SPEXDEAPA-plentymarkets-NL-XiS17",
         "pluginTitle": "Amazon Pay"
       },

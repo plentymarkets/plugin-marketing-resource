@@ -9,9 +9,9 @@
         "pictureLink": ""
       },
       {
-        "pictureUrl": "https://cdn02.plentymarkets.com/pmsbpnokwu6a/plugin/production/marketingresource/images/homepage/slider_amazon_de.jpg",
+        "pictureUrl": "https://cdn02.plentymarkets.com/pmsbpnokwu6a/plugin/production/marketingresource/images/homepage/slider_gebrauchtde.jpg",
         "text": "",
-        "pictureLink": "https://pay.amazon.com/de/promotion?ld=SPEXDEAPA-plentymarkets-NL-XiS17"
+        "pictureLink": "https://www.gebraucht.de/"
       },
       {
         "pictureUrl": "https://cdn02.plentymarkets.com/pmsbpnokwu6a/plugin/production/marketingresource/images/homepage/slider_paydirekt.jpg",
@@ -52,10 +52,10 @@
         "pluginTitle": "paydirekt"
       },
       {
-        "pluginIcon": "https://cdn02.plentymarkets.com/pmsbpnokwu6a/plugin/production/marketingresource/images/homepage/icon_plugin_contact.png",
-        "pluginText": "Anzeige von Kontaktdaten im Webshop",
-        "pluginLink": "https://marketplace.plentymarkets.com/de/plugins/plentymarkets-gmbh/contactcard_4695",
-        "pluginTitle": "Contact Card"
+        "pluginIcon": "https://cdn02.plentymarkets.com/pmsbpnokwu6a/plugin/production/marketingresource/images/homepage/icon_plugin_gebrauchtde.png",
+        "pluginText": "Technik, Bekleidung, Medien, Haushalt, Kfz-Teile uvm. verkaufen!",
+        "pluginLink": "https://marketplace.plentymarkets.com/de/plugins/templates/Gebraucht_5163",
+        "pluginTitle": "gebraucht.de"
       },
       {
         "pluginIcon": "https://cdn02.plentymarkets.com/pmsbpnokwu6a/plugin/production/marketingresource/images/homepage/icon_plugin_paypal.png",
@@ -76,7 +76,7 @@
         "pictureLink": ""
       },
       {
-        "pictureUrl": "https://cdn02.plentymarkets.com/pmsbpnokwu6a/plugin/production/marketingresource/images/homepage/slider_amazon_en.jpg",
+        "pictureUrl": "https://cdn02.plentymarkets.com/pmsbpnokwu6a/plugin/production/marketingresource/images/homepage/slider_gebrauchtde.jpg",
         "text": "",
         "pictureLink": "https://pay.amazon.com/uk/promotion?ld=SPEXDEAPA-plentymarkets-NL-XiS17"
       },
@@ -113,10 +113,10 @@
         "pluginTitle": "Amazon Pay"
       },
       {
-        "pluginIcon": "https://cdn02.plentymarkets.com/pmsbpnokwu6a/plugin/production/marketingresource/images/homepage/icon_plugin_contact.png",
-        "pluginText": "Displaying contact data in the online store",
-        "pluginLink": "https://marketplace.plentymarkets.com/en/plugins/plentymarkets-gmbh/contactcard_4695",
-        "pluginTitle": "Contact Card"
+        "pluginIcon": "https://cdn02.plentymarkets.com/pmsbpnokwu6a/plugin/production/marketingresource/images/homepage/icon_plugin_gebrauchtde.png",
+        "pluginText": "Technik, Bekleidung, Medien, Haushalt, Kfz-Teile uvm. verkaufen!",
+        "pluginLink": "https://marketplace.plentymarkets.com/en/plugins/templates/Gebraucht_5163",
+        "pluginTitle": "gebraucht.de"
       },
       {
         "pluginIcon": "https://cdn02.plentymarkets.com/pmsbpnokwu6a/plugin/production/marketingresource/images/homepage/icon_plugin_paypal.png",
